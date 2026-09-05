@@ -1,0 +1,20 @@
+# Датасеты и большие файлы
+*.data
+*.csv
+*.txt
+*.feat
+*.vocab
+
+# Папки с датасетами
+aclImdb/
+lightning_logs/
+celeba/
+MNIST/
+models/
+cat_dog_images/
+
+
+# Системные файлы
+__pycache__/
+*.pyc
+.vscode/
